@@ -1,0 +1,1 @@
+﻿select name from tbl_owingBuyer,tbl_customer where tbl_owingBuyer.Id = tbl_customer.owingBuyerId

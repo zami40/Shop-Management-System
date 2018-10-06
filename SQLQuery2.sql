@@ -1,0 +1,1 @@
+﻿select Id,company from fahim;
